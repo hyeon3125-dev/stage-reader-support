@@ -1,0 +1,7 @@
+{
+  "interstitialEnabled": true,
+  "minimumCompletedChapters": 3,
+  "minimumMinutesBetweenAds": 10,
+  "firstSessionExempt": true,
+  "firstMinutesExempt": 15
+}
